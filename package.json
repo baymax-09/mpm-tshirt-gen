@@ -17,6 +17,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@alxcube/lens": "^2.0.1",
+    "@alxcube/lens-jimp": "^3.0.0",
     "@topcli/spinner": "^2.1.2",
     "cli-spinners": "^3.1.0",
     "color": "^4.2.3",
