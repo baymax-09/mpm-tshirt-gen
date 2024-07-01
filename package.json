@@ -1,0 +1,23 @@
+{
+  "name": "linepicplus-generate-tshirt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "linepicplus-generate-tshirt": "./bin/run.js"
+  },
+  "preferGloba": true,
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "jimp": "^0.22.12",
+    "sharp": "^0.33.4"
+  }
+}
